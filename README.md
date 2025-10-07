@@ -44,7 +44,7 @@ Sou técnica em Informática e atualmente curso Engenharia de Software na Univer
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
 
-### 📊 Estatísticas
+### 📊 Estatísticas do Github
 
 <img
         align="left"
